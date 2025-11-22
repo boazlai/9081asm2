@@ -1,0 +1,308 @@
+/* CSS Styles - Minimalistic Design */
+:root {
+  --bg-color: #fafafa;
+  --text-color: #2c2c2c;
+  --accent-color: #1a5f5f;
+  --accent-light: #e8f4f4;
+  --sidebar-bg: #ffffff;
+  --border-color: #e0e0e0;
+  --sidebar-width: 220px;
+  --section-padding: 60px 30px;
+}
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    "Helvetica Neue", Arial, sans-serif;
+  background-color: var(--bg-color);
+  color: var(--text-color);
+  margin: 0;
+  padding: 0;
+  display: flex;
+  height: 100vh;
+  overflow: hidden;
+  line-height: 1.6;
+  letter-spacing: 0.3px;
+}
+
+/* Sidebar */
+nav {
+  width: var(--sidebar-width);
+  background-color: var(--sidebar-bg);
+  padding: 40px 25px;
+  display: flex;
+  flex-direction: column;
+  border-right: 1px solid var(--border-color);
+  flex-shrink: 0;
+  box-shadow: 2px 0 10px rgba(0, 0, 0, 0.03);
+}
+
+nav h2 {
+  color: var(--accent-color);
+  font-size: 0.75rem;
+  font-weight: 700;
+  margin-bottom: 30px;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  opacity: 0.9;
+}
+
+nav ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+nav li {
+  margin-bottom: 8px;
+}
+
+nav a {
+  color: #666;
+  text-decoration: none;
+  font-size: 0.875rem;
+  font-weight: 400;
+  transition: all 0.25s ease;
+  display: block;
+  padding: 6px 0;
+  border-radius: 4px;
+}
+
+nav a:hover {
+  color: var(--accent-color);
+  transform: translateX(4px);
+}
+
+nav a.active {
+  color: var(--accent-color);
+  font-weight: 500;
+}
+
+/* Sub-nav */
+.sub-nav {
+  padding-left: 16px;
+  font-size: 0.8rem;
+  color: #888;
+  opacity: 0.85;
+}
+
+/* Main Content */
+main {
+  flex-grow: 1;
+  overflow-y: auto;
+  scroll-behavior: smooth;
+  padding: 0;
+  background-color: var(--bg-color);
+}
+
+.container {
+  max-width: 750px;
+  margin: 0 auto;
+  padding: 0 40px 80px;
+}
+
+section {
+  padding: var(--section-padding);
+  border-bottom: none;
+  min-height: 0;
+  margin-bottom: 20px;
+}
+
+/* Typography */
+h1 {
+  font-size: 2.5rem;
+  font-weight: 300;
+  color: var(--text-color);
+  margin: 0 0 12px 0;
+  letter-spacing: -0.5px;
+  line-height: 1.2;
+}
+
+h2 {
+  font-size: 1.25rem;
+  font-weight: 600;
+  color: var(--accent-color);
+  margin: 40px 0 20px 0;
+  letter-spacing: 0.5px;
+  text-transform: uppercase;
+  border: none;
+  padding: 0;
+}
+
+h3 {
+  font-size: 1.1rem;
+  font-weight: 600;
+  color: var(--accent-color);
+  margin: 0 0 12px 0;
+  line-height: 1.4;
+}
+
+p {
+  line-height: 1.75;
+  font-size: 0.95rem;
+  color: var(--text-color);
+  margin: 0 0 16px 0;
+  opacity: 0.9;
+}
+
+strong {
+  color: var(--text-color);
+  font-weight: 600;
+}
+
+ul {
+  line-height: 1.75;
+  color: var(--text-color);
+  opacity: 0.9;
+  padding-left: 20px;
+  margin: 12px 0;
+}
+
+ul li {
+  margin-bottom: 8px;
+}
+
+.subtitle {
+  font-size: 1rem;
+  font-style: normal;
+  font-weight: 400;
+  color: #666;
+  margin-bottom: 30px;
+  display: block;
+  line-height: 1.6;
+  opacity: 0.85;
+}
+
+.intro-text {
+  font-size: 1rem;
+  background: var(--accent-light);
+  padding: 20px 24px;
+  margin: 30px 0;
+  border-radius: 6px;
+  border-left: 3px solid var(--accent-color);
+  line-height: 1.7;
+}
+
+/* Checkpoints styling */
+.checkpoint {
+  background: #ffffff;
+  padding: 30px;
+  border-radius: 8px;
+  margin-bottom: 20px;
+  border: 1px solid var(--border-color);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.04);
+  transition: all 0.3s ease;
+}
+
+.checkpoint:hover {
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.08);
+  transform: translateY(-2px);
+}
+
+.checkpoint h3 {
+  margin-top: 0;
+  color: var(--accent-color);
+  font-size: 1.15rem;
+}
+
+.tag {
+  display: inline-block;
+  background: #333;
+  color: #fff;
+  padding: 4px 8px;
+  border-radius: 4px;
+  font-size: 0.8rem;
+  margin-bottom: 10px;
+}
+
+/* Scrollbar */
+main::-webkit-scrollbar {
+  width: 6px;
+}
+main::-webkit-scrollbar-track {
+  background: transparent;
+}
+main::-webkit-scrollbar-thumb {
+  background: rgba(0, 0, 0, 0.15);
+  border-radius: 10px;
+}
+main::-webkit-scrollbar-thumb:hover {
+  background: rgba(0, 0, 0, 0.3);
+}
+
+@media (max-width: 768px) {
+  body {
+    flex-direction: column;
+    overflow: auto;
+  }
+  nav {
+    width: 100%;
+    height: auto;
+    border-right: none;
+    border-bottom: 1px solid var(--border-color);
+    padding: 20px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.04);
+  }
+  nav h2 {
+    margin-bottom: 15px;
+  }
+  nav ul {
+    display: flex;
+    overflow-x: auto;
+    white-space: nowrap;
+    padding-bottom: 10px;
+    gap: 10px;
+  }
+  nav li {
+    margin: 0;
+  }
+  main {
+    overflow-y: visible;
+  }
+  .container {
+    padding: 0 20px 60px;
+  }
+  h1 {
+    font-size: 2rem;
+  }
+  section {
+    padding: 40px 0;
+  }
+  .checkpoint {
+    padding: 20px;
+  }
+}
+
+.footer-note {
+  text-align: center;
+  margin-top: 60px;
+  font-style: italic;
+  color: #888;
+  font-size: 0.9rem;
+  line-height: 1.8;
+}
+
+/* Animation Classes */
+.hidden {
+  opacity: 0;
+  transform: translateY(20px);
+  transition: opacity 0.6s ease, transform 0.6s ease;
+}
+
+.show {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+.spacer {
+  margin-top: 40px;
+}
+
+.transit-section {
+  text-align: center;
+  min-height: 0;
+  padding: 20px;
+  background: var(--accent-light);
+  border-radius: 6px;
+  font-style: italic;
+  color: #666;
+}
