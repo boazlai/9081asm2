@@ -255,6 +255,46 @@ ul li {
   line-height: 1.7;
 }
 
+.arrow-container {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.scroll-arrow {
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  width: 34px;
+  height: 34px;
+  border-radius: 50%;
+  border: 1px solid var(--accent-color);
+  color: var(--accent-color);
+  text-decoration: none;
+  font-size: 1.2rem;
+  animation: arrowBounce 1.5s infinite;
+}
+.scroll-arrow:hover {
+  background: var(--accent-color);
+  color: #fff;
+}
+
+@keyframes arrowBounce {
+  0%,
+  20%,
+  50%,
+  80%,
+  100% {
+    transform: translateY(0);
+  }
+  40% {
+    transform: translateY(6px);
+  }
+  60% {
+    transform: translateY(3px);
+  }
+}
+
 /* Checkpoints styling */
 .checkpoint {
   background: #ffffff;
@@ -280,7 +320,7 @@ ul li {
 .checkpoint-body {
   display: flex;
   gap: 20px;
-  align-items: flex-start;
+  align-items: center;
 }
 
 .checkpoint-text {
@@ -288,13 +328,13 @@ ul li {
 }
 
 .checkpoint-image {
-  flex: 0 0 180px;
+  flex: 0 0 135px;
   text-align: center;
 }
 
 .checkpoint-image img {
   width: 100%;
-  height: 160px;
+  height: 240px;
   object-fit: cover;
   border-radius: 8px;
   border: 1px solid var(--border-color);
