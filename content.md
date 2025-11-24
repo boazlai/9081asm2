@@ -1,7 +1,7 @@
-# Haunted Orders: Ghosts, Mahjong & Midnight Deliveries
+# Haunted Stories of the Yau Tsim Wong districts
 
-**A 90-Minute Urban Legend Walking + MTR Tour of Yau Ma Tei & Hung Hom**  
-_Designed for international HKU students who want real Hong Kong ghost stories, dark history, and a proper thrill — no tourist traps, no fake jump-scares, just pure local chills_
+**A 90-Minute Urban Legend Walking + MTR Tour of Yau Ma Tei & Jordan**  
+_Designed for tourist and Local citizens who want to know the history and the scary stories of one of the most crowded districts in Hong Kong._
 
 ## 1. Title & Tour Concept
 
@@ -15,21 +15,21 @@ Ghost hunger and playfulness animate our night walk: from Tin Hau Temple’s pro
 
 ### Quick Reference
 
-- **Duration**: 1.5 hours (90–100 minutes with stories)
-- **Starting Point**: MTR Jordan Station Exit A (in front of JD Mall, 233 Nathan Road)
-- **Ending Point**: Kwun Yum Temple, Hung Hom
-- **Cost**: Only MTR fare (≈ HK$9–11 with Octopus)
+- **Duration**: 1.5 hours
+- **Starting Point**: Tin Hau Temple
+- **Ending Point**: JD Mall
+- **Cost**: Only MTR fare
 
 ### What to Bring
 
 - Water
-- Fully charged phone (QR codes + Google Maps link provided on the day)
+- Fully charged phone
 - Octopus card
-- Light jacket (gets cooler in Hung Hom)
+- Light jacket
 
 ### What Makes This Tour Unique
 
-This is the only tour that connects the “ghost food-delivery” and “mahjong ghost” motifs across decades and districts. Instead of generic haunted-house stories, you get five sites where the dead literally try to keep living Hong Kong daily life — ordering porridge, collecting mahjong winnings, calling the police for help. The emotional arc moves from modern tragedy (Garley fire) to 1950s mystery to the heartbreaking WWII school bombing, ending with a surprisingly tender ritual that still happens every night.
+This tour connects five sites within the Yau Tsim Mong area where urban legends such as the "ghost food-delivery" and "mahjong ghosts". These legends are deeply rooted in the local culture and history, offering a unique perspective on how the community interacts with its past.
 
 ### Map (Web Embed Placeholder)
 
@@ -42,13 +42,13 @@ This is the only tour that connects the “ghost food-delivery” and “mahjong
 `[IMAGE_PLACEHOLDER_9x16 – Tin Hau Temple courtyard]`
 
 **Background Fact**  
-19th‑century Tin Hau Temple complex guarding seafarers and market folk; a daily threshold between sacred shelter and the city’s commerce. Opposite once stood tong lau linked to early mahjong parlours.
+Yau Ma Tei Tin Hau Temple is regarded as the birthplace of urban Kowloon. Built in 1870 on the original shoreline to protect Tanka fishermen who worshipped the Sea Goddess Tin Hau, it lost its seaside location after repeated land reclamations. The open square in front, shaded by a large banyan tree known as "Banyan Tree Head", became a popular gathering spot for residents, street performers and vendors, evolving into the famous Temple Street Night Market. Despite its vibrant atmosphere, the area has long been associated with triads, prostitution, gambling and drugs. Remarkably, urban legends about the temple worshipping both ghosts and gods remain rare.
 
-**Urban Legends**  
-Mahjong ghosts across the street “borrow” temple protection to keep playing; late phone orders for porridge answered by a paying hand that turns into joss paper on the return walk; incense smoke said to outline headless players before dispersing.
+**Chinese Mythology**  
+Tin Hau, also known as Mazu ("Maternal Ancestor"), was a real woman named Lam Muk born in 960 AD on Meizhou Island, China. Silent at birth, she grew into a gifted shamaness whose accurate weather predictions protected local fishermen. She died at 27, but legends of her posthumous miracles spread rapidly. Worshipped as the Goddess of the Sea, she became vital to coastal communities. A famous tale tells of her astral projection during weaving: she fought a sea monster, saved four storm-tossed ships, but lost one when her mother's touch snapped her back to her body. Later titled "Tin Hau" (Heavenly Empress), hundreds of seaside temples in Hong Kong and beyond honour her enduring protection of seafarers.<sup class="sup-ref">1</sup>
 
-**Modern Reinterpretation**  
-Temple as communal firewall: legends frame play, food and worship as one ecosystem where the dead remain socially included rather than exiled.
+**Common Ritual**  
+Before sailing, Zhoushan fishermen performed the Tin Hau candle ritual: lighting three incense sticks or candles at her temple. If wind extinguished them once or thrice, it signalled dangerous conditions and an unfavourable voyage; only steady flames granted divine permission to set sail safely.<sup class="sup-ref">1</sup>
 
 ---
 
@@ -57,41 +57,51 @@ Temple as communal firewall: legends frame play, food and worship as one ecosyst
 `[IMAGE_PLACEHOLDER_9x16 – Yau Ma Tei Carpark exterior]`
 
 **Background Fact**  
-Multi‑storey carpark replacing layers of older street life; slated for redevelopment. Upper decks overlook former sites of mahjong flats and night stalls.
+The Yau Ma Tei Carpark Building, completed in 1957 (with the Gascoigne Road flyover added in 1970), is notorious as "the deathliest place in Yau Ma Tei" due to suicides by jumping and drug overdoses in its Temple Street-facing toilets. Sparse urban legends include drivers trapped in time-warps or lost for hours inside. Ironically, its ground-floor public library was once a beloved air-conditioned oasis for locals.
 
 **Urban Legends**  
-After closing, elevators allegedly stop at a “sealed” level where delivery riders hear tile shuffling; food orders accepted by a gloved hand paying with crisp notes that later fade into joss paper; phantom phone rings traced to no active line.
+The Yau Ma Tei Car Park is linked to two urban legends: One is a driver come across a time-warp while driving through the Gascoigne Road flyover; Another legend is a person stuck in the building for two hours can't figure the way out.
 
 **Modern Reinterpretation**  
-Vertical infrastructure becomes archive: each floor a stratum where ordinary leisure (driving, eating, gaming) blurs with remembrance of losses.
+These urban legends likely derived from the car park's unique design: the Gascoigne Road flyover pierces straight through the building, and its dimly lit tunnel resembles an eerie "time tunnel," sparking tales of time-warps and time-travel. Additionally, the near-identical layout of each floor creates a disorienting maze, setting the base for stories of people lost for hours while trying to leave.
 
 ---
 
-## 5. Checkpoint 3 · Man Hoo Court
+## 5. Checkpoint 3 · 452 Nathan Road
 
-`[IMAGE_PLACEHOLDER_9x16 – Man Hoo Court facade]`
+`[IMAGE_PLACEHOLDER_9x16 – 452 Nathan Road building]`
 
 **Background Fact**  
-Modern residential block amid former tong lau cluster; inherits stories from pre‑redevelopment flats where parlours operated semi‑legally.
+The old building was located on the opposite to the Tin Hau Temple, but it was demolished and rebuilt into a new building in 1977.
 
 **Urban Legends**  
-Signature “mahjong ghost suite”: disembodied hand collecting winnings; four headless players locked in endless round at 9 pm; porridge delivery incident ending with payment transforming into joss paper mid‑staircase.
+Hong Kong's famous "Headless Mahjong Ghosts" legend cluster centres on 4th-floor flats in old tenement buildings (Yau Ma Tei, Hung Hom, Tai Po). Recurring motifs:
+
+1. Four players (often headless, killed mid-game by WWII air raids) continue gambling as ghosts.
+2. Invisible or ghostly hands shuffle tiles and collect winnings; neighbours see headless figures or hear endless mahjong clatter.
+3. Every night they phone nearby porridge shops for exactly four bowls. A disembodied hand pays with real money that turns into joss paper.
+4. When delivery boys or police finally force entry, they discover either four headless ghosts still playing or four decomposing bodies with the restaurant's food in their stomachs.
+5. In some versions, those who burst in die of fright that same night.
+
+One early variant involves only ghostly hands interfering in a living mahjong game, possibly a hoax by property rivals. The stories were widely shared from the 1980s–2000s, is one of Hong Kong's classic gambling-ghost stories.
 
 **Modern Reinterpretation**  
-Legends migrate to newer buildings, showing how community memory reattaches to fresh concrete rather than disappearing with demolition.
+These legends are deeply rooted in Hong Kong's traditional mahjong culture, reflecting the game's central role in past social life and the superstitions that surrounded it. The detail of Ye's daughter acting as live-in caretaker of the vacant flat also mirrors a once-common local practice, where overseas Chinese owners entrusted relatives to occupy and watch over their properties.
 
 ## 6. Checkpoint 4 · Yau Ma Tei MTR Station – Platform 1
 
 `[IMAGE_PLACEHOLDER_9x16 – Yau Ma Tei MTR platform]`
 
 **Background Fact**  
-Opened 1979; early decades without platform screen doors intensified danger imagery.
+Yau Ma Tei finally opened on 22 December 1979 as an infill station on the Kwun Tong Line (extended from Shek Kip Mei to Tsim Sha Tsui), initially operating only the upper platform. The lower platform began service on 26 April 1982 when the Modified Initial System was split into the distinct Kwun Tong and Tsuen Wan lines. In 2016, the Kwun Tong Line was further extended to Whampoa.<sup class="sup-ref">2</sup>
 
 **Urban Legend**  
-10 Nov 1981 alleged jump: driver, passengers see girl fall; full search reveals no body or blood. Variant: a student witnesses her own doppelgänger jump and later “dies of fright”; 2019 retelling reframes as miraculous survival between rails.
+On 10 November 1981, at around 1:50 pm, a Tsuen Wan-bound train was pulling into Yau Ma Tei station when the driver and passengers on the platform suddenly saw a teenage girl in school uniform leap onto the tracks. Screams rang out as the driver slammed on the emergency brakes. The train screeched to a halt, yet when staff searched beneath the carriages—no body, no blood, nothing.
+
+Over the years the story mutated: some say a female student on the platform saw her "another self" jump in front of the train, then fled home in terror and died days later. Another girl who claimed to be the friend of the girl who jumped into the rail, crouched between the rails, survived unharmed, escaped the station, later converted to Christianity, and is still alive today.
 
 **Modern Reinterpretation**  
-Story mutates with each mental health spike—mechanism for converting anonymous tragedy into cautionary miracle narrative.
+Yau Ma Tei station as one of the busiest transfer stations in Hong Kong, its urban legend reflects collective anxieties about youth pressures in Hong Kong's competitive society. The ghostly jumper symbolizes the tragic consequences of academic stress and societal expectations on teenagers. The story serves as a cautionary tale, highlighting the need for mental health awareness and support for young people facing overwhelming challenges.
 
 ---
 
@@ -100,12 +110,15 @@ Story mutates with each mental health spike—mechanism for converting anonymous
 `[IMAGE_PLACEHOLDER_9x16 – JD Mall / Garley Building site]`
 
 **Background Fact**  
-20 Nov 1996 Garley Building fire: sparks, chimney‑like lift shaft, 41 deaths; demolished 2003, JD Mall replaces structure.
+The Garley Building in Yau Ma Tei, at the corner of Nathan Road and Waterloo Road, was the site of Hong Kong’s deadliest commercial fire. On 20 November 1996, welding sparks during elevator renovation ignited wooden boards, and the open shaft created a deadly “chimney effect.” Thick smoke and flames rapidly engulfed the upper floors, trapping dozens in offices. Forty-one people died and over 80 were injured; many victims were seen waving desperately from windows before perishing. Despite limited structural damage, the building was demolished in 2003 and later rebuilt.
 
 **Urban Legends**  
-Lift allegedly stopping at non‑existent 15/F; post‑fire emergency calls from cancelled floor numbers pleading for rescue; food delivery orders from sealed levels, a hand paying in joss paper.
+After the tragic Garley Building fire, a few urban legends emerged:
+1. A few days before the fire, singer Priscilla Chan went back to office on the 10th floor usually. Instead of stopping at 10/F, the elevator suddenly ascended to the 15th floor. It was pitch black outside the elevator, and some believed she had a glimpse of the ruined 15/F after the fire.
+2. Months after the fire, Tsim Sha Tsui Police Station repeatedly receive emergency calls from time to time reporting a big fire in the Garley Building. The call was traced and it showed that the call was made from the burn-out 15/F in the Garley Building.
+3. A nearby restaurant occationally recieved food delivery orders from a unit of the Garley Building. The food delivery guy went to the address and were told that the unit was burnt down in the fire and the entire floor was sealed.
 
 **Modern Reinterpretation**  
-“Ghost delivery” meme localizes grief as ongoing appetite—victims reframed as still sharing Hong Kong’s nocturnal routines.
+These urban legends reflect the collective trauma and lingering fears associated with the Garley Building fire. They serve as haunting reminders of the tragedy, symbolizing unresolved grief and the human tendency to seek meaning in the aftermath of disasters. These stories also act as a warning and highlight concerns about safety regulations and the importance of fire prevention in densely populated urban environments especially for older buildings.
 
 ---
